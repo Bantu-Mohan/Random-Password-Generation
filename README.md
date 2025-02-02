@@ -47,7 +47,5 @@ Feel free to submit issues or pull requests to improve the script.
 
 [Edit README.md](https://github.com/Bantu-Mohan/Random-Password-Generation/edit/main/README.md)
 
-## License
 
-This project is licensed under the MIT License.
 
