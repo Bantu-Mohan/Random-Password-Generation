@@ -1,4 +1,4 @@
-from random import sample, shuffle
+from random import sample, shuffle, choice
 import string
 
 def password_generator(length, upper_case, lower_case, special_symbols, digits):
